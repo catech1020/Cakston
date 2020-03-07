@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Floyds_Algorithm</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="sou">
+        <item>--Source--</item>
+    <item>Tiruchendur</item>
+    <item>Nagercoil</item>
+    <item>Valiyur</item>
+    <item>Tirunelveli</item>
+    <item>Kudankulam</item>
+    <item>Satankulam</item>
+    <item>Thisayanvilai</item>
+    </string-array>
+
+    <string-array name="des">
+        <item>--Destination--</item>
+        <item>Tiruchendur</item>
+        <item>Nagercoil</item>
+        <item>Valiyur</item>
+        <item>Tirunelveli</item>
+        <item>Kudankulam</item>
+        <item>Satankulam</item>
+        <item>Thisayanvilai</item>
+    </string-array>
+</resources>
